@@ -7,7 +7,7 @@ Checks that all callbacks are called
 You'll first need to install [ESLint](http://eslint.org):
 
 ```
-$ npm install -g eslint
+$ sudo npm install -g eslint
 ```
 
 Next, install `eslint-plugin-callback`:
@@ -15,7 +15,7 @@ Next, install `eslint-plugin-callback`:
 Clone this repo to `eslint-plugin-callback`,
 ```
 $ cd ./eslint-plugin-callback
-$ npm link eslint-plugin-callback --production
+$ sudo npm link --production
 ```
 
 ## Usage
