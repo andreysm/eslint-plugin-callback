@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-callback",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Check callbacks are called",
   "homepage": "https://github.com/andreysm/eslint-plugin-callback#readme",
   "repository" : {
@@ -20,11 +20,11 @@
   "dependencies": {
     "requireindex": "~1.1.0"
   },
-  "devDependencies": {
-    "eslint": "~2.6.0"
+  "peerDependencies": {
+    "eslint": ">=2.6.0"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=4.0.0"
   },
   "license": "ISC"
 }

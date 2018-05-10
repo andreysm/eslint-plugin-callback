@@ -12,10 +12,8 @@ $ sudo npm install -g eslint
 
 Next, install `eslint-plugin-callback`:
 
-Clone this repo to `eslint-plugin-callback`,
 ```
-$ cd ./eslint-plugin-callback
-$ sudo npm link --production
+$ sudo npm install -g eslint-plugin-callback
 ```
 
 ## Usage
