@@ -1,7 +1,12 @@
 {
   "name": "eslint-plugin-callback",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Check callbacks are called",
+  "homepage": "https://github.com/andreysm/eslint-plugin-callback#readme",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/andreysm/eslint-plugin-callback.git"
+  },
   "keywords": [
     "eslint",
     "eslintplugin",
