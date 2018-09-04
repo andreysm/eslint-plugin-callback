@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-callback",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Check callbacks are called",
   "homepage": "https://github.com/andreysm/eslint-plugin-callback#readme",
   "repository" : {
